@@ -68,12 +68,12 @@ title: Module 1&#58; Creating a Cordova Project
         cordova platforms add android
         ```
 
-1. Make sure you are in the **workshop** directory, and add basic plugins to your projects:
+    1. Make sure you are in the **workshop** directory, and add basic plugins to your projects:
 
-  ```
-  cordova plugin add cordova-plugin-device
-  cordova plugin add cordova-plugin-console
-  ```
+        ```
+        cordova plugin add cordova-plugin-device
+        cordova plugin add cordova-plugin-console
+        ```
 
 1. Examine the directory structure under workshop.
     - The **www** folder is where you will code your HTML / JavaScript application. Open the index.html file in a 
